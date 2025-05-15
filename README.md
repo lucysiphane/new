@@ -1,2 +1,2 @@
 # new
-n
+This is my first repo
